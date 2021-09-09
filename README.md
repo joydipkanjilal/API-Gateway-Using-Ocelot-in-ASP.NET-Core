@@ -1,6 +1,6 @@
 ## **Prerequisites**
 
-To execute the code examples shown in this article, here are the minimum requirements you should have installed in your system:
+To execute the application, here are the minimum requirements you should have installed in your system:
 
 -   .NET 5 SDK
 
